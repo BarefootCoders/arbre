@@ -14,6 +14,7 @@ require 'arbre/html/text_node'
 require 'arbre/html/document'
 require 'arbre/html/html5_elements'
 require 'arbre/component'
+require 'arbre/ico'
 
 if defined?(Rails)
   require 'arbre/rails'
